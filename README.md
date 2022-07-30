@@ -13,11 +13,11 @@ launch dates and their funding goals.
 
 #### Category vs Outcomes 
 
-![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/f73c78530f6ed9b9b68a44a6347207d9d189d888/Resources/Category_vs_Outcomes.PNG)
+![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/12bfe8d40dfcbdf1bb0ced269a4ffae48bc8064f/Resources/Category_vs_Outcomes.PNG)
 
 #### Subcategory vs Outcomes
 
-![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/f73c78530f6ed9b9b68a44a6347207d9d189d888/Resources/Subcategory_vs_Outcomes.PNG)
+![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/12bfe8d40dfcbdf1bb0ced269a4ffae48bc8064f/Resources/Subcategory_vs_Outcomes.PNG)
 
 ## Analysis and Challenges
 
@@ -25,11 +25,11 @@ There were two analyses completed utilizing built-in PivotTable and formulas too
 
 #### PivotTable of Theater Campaigns Outcomes VS Launch
 
-![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/f73c78530f6ed9b9b68a44a6347207d9d189d888/Resources/Theater_Outcomes_vs_Launch_PivotTable.PNG)
+![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/12bfe8d40dfcbdf1bb0ced269a4ffae48bc8064f/Resources/Theater_Outcomes_vs_Launch_PivotTable.PNG)
 
 #### Chart of Play Outcomes VS Goals
 
-![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/f73c78530f6ed9b9b68a44a6347207d9d189d888/Resources/Outcomes_vs_Goals_Chart.PNG)
+![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/12bfe8d40dfcbdf1bb0ced269a4ffae48bc8064f/Resources/Outcomes_vs_Goals_Chart.PNG)
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -40,7 +40,7 @@ added to visualize the relationship between outcomes and launch month. Lastly, a
 
 #### Model 1: Theater Outcomes Based on Launch Date 
 
-![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/f73c78530f6ed9b9b68a44a6347207d9d189d888/Resources/Theater_Outcomes_vs_Launch.PNG)
+![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/12bfe8d40dfcbdf1bb0ced269a4ffae48bc8064f/Resources/Theater_Outcomes_vs_Launch.PNG)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -53,7 +53,7 @@ and the percentage of successful, failed, or canceled outcomes on the y-axis.
 
 #### Model 2: Outcomes Based on Goals
 
-![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/f73c78530f6ed9b9b68a44a6347207d9d189d888/Resources/Outcomes_vs_Goals.PNG)
+![This is an image](https://github.com/mrjaytv/kickstarter-analysis/blob/12bfe8d40dfcbdf1bb0ced269a4ffae48bc8064f/Resources/Outcomes_vs_Goals.PNG)
 
 ### Challenges and Difficulties Encountered
 
